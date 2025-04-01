@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @v1ct0rjs
-- 👀 I’m interested in Web Development, Front end, Server, Containers and IoT
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me vmjimenezs02@educarex.es
-- ⚡ Fun fact: I like to design 3D mesh
-
 # ¡Hola, soy Víctor Jiménez! 👋
 
 Soy un desarrollador entusiasta con sólidos conocimientos en Python, HTML, C, electrónica y servidores. He programado para automatización del hogar y otros proyectos interesantes.
