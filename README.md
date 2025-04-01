@@ -1,7 +1,3 @@
-# ¡Hola, soy Víctor Jiménez! 👋
-
-Soy un desarrollador entusiasta con sólidos conocimientos en Sysadmin, Python, Shell Script, PHP, HTML, CSS, C, Docker, Electrónica, IOT, servidores y redes. 
-
 ## 🚀 Mis Proyectos
 
 Aquí hay una selección de algunos de mis proyectos:
