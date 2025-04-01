@@ -39,6 +39,6 @@ Aquí hay una selección de algunos de mis proyectos:
 ## 📫 Cómo Contactarme
 
 - **Sitio Web:** [v1ct0r.dev](https://v1ct0r.dev/)
-- **Ubicación:** Zafra
+- **Email:** vmjimenezs02@educarex.es o vjimsan@gmail.com
 
 ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contribuir si te interesa.
