@@ -1,8 +1,8 @@
 # ¡Hola, soy Víctor Jiménez! 👋
 
-Soy un desarrollador entusiasta con sólidos conocimientos en Python, HTML, C, electrónica y servidores. He programado para automatización del hogar y otros proyectos interesantes.
+Soy un desarrollador entusiasta con sólidos conocimientos en Sysadmin, Python, Shell Script, PHP, HTML, CSS, C, Docker, Electrónica, IOT, servidores y redes. 
 
-## 🚀 Mis Proyectos Destacados
+## 🚀 Mis Proyectos
 
 Aquí hay una selección de algunos de mis proyectos:
 
@@ -12,11 +12,29 @@ Aquí hay una selección de algunos de mis proyectos:
 ### [auto_fastfetch](https://github.com/v1ct0rjs/auto_fastfetch)
 *Script en Python para automatizar la ejecución de Fastfetch y obtener información del sistema de forma rápida.*
 
-### [FCT_test_repo](https://github.com/v1ct0rjs/FCT_test_repo)
-*Repositorio de prueba para Formación en Centros de Trabajo (FCT).*
+### [PythonWeb](https://github.com/v1ct0rjs/PythonWeb)
+*Repositorio para proyectos web python.*
 
-### [IAW](https://github.com/v1ct0rjs/IAW)
-*Repositorio para el módulo Implantación de Aplicaciones Web.*
+### [Pyter](https://github.com/v1ct0rjs/pyter)
+*Pyter is a small client-server messaging program that uses gRPC..*
+
+### [m5_move-detector](https://github.com/v1ct0rjs/m5_move-detector)
+*Proyecto IOT que registra la actividad física, programado en Micro python.*
+
+### [La Ruleta de la Fortuna](https://github.com/v1ct0rjs/RuletaDeLaFortuna)
+*Un juego escrito en python que usa una base de datos sqlite, para almacenar frases, tambien incluye un savegame*
+
+### [PyAgenda](https://github.com/v1ct0rjs/PyAgenda)
+*Task manager written in Python*
+
+### [Pyng](https://github.com/v1ct0rjs/Pyng)
+*This Python script is a simple network scanner that pings all the IP addresses in the same subnet as the host machine and logs the ones that respond.*
+
+### [Ahorcado](https://github.com/v1ct0rjs/ahorcado)
+*Hangman Game.*
+
+### [DBOH](https://github.com/v1ct0rjs/DBOH)
+*Decimal, Binary, Hexadecimal and Octal Converter.*
 
 ## 📫 Cómo Contactarme
 
