@@ -2,6 +2,12 @@
 
 Aquí hay una selección de algunos de mis proyectos:
 
+### [grafana_octopus](https://github.com/v1ct0rjs/grafana_octopus)
+*Stack de Monitoreo con Grafana con docker compose, para monitoreo de contenedores y host.*
+
+### [SonarQube](https://github.com/v1ct0rjs/jenkins_deployment/tree/main/SonarQube)
+*Implementación de una instancia de SonarQube pública con Ngrok.*
+
 ### [jenkins_deployment](https://github.com/v1ct0rjs/jenkins_deployment)
 *Despliegue de Imágenes a DockerHub.*
 
