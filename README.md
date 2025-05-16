@@ -2,6 +2,10 @@
 
 Aquí hay una selección de algunos de mis proyectos:
 
+### [grafana_octopus](https://github.com/v1ct0rjs/LoRaIM)
+*LoRaIM (LoRa Instant Messenger)
+*LoRaIM (LoRa Instant Messenger) is an experimental messaging platform designed to operate without traditional infrastructure (no cellular, Wi-Fi, or internet) using LoRa (Long Range) radio communication.*
+
 ### [grafana_octopus](https://github.com/v1ct0rjs/grafana_octopus)
 *Stack de monitoreo utilizando Grafana, Prometheus y Node Exporter desplegado con Docker Compose, para supervisar contenedores y el host*
 *Monitoring stack using Grafana, Prometheus, and Node Exporter deployed with Docker Compose, to monitor containers and the host system.*
