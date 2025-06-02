@@ -1,4 +1,6 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v1ct0rjs&theme=dark&hide_border=true)](https://git.io/streak-stats)
+## Stats
+![stats icon](https://img.icons8.com/ios-filled/24/000000/combo-chart.png) Estadísticas
+[![GitHub Streak](https://streak-stats.demolab.com?user=v1ct0rjs&theme=algolia&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ## 🚀 Mis Proyectos
 
