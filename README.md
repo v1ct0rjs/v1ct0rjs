@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=v1ct0rjs&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 ## 🚀 Mis Proyectos
 
 Aquí hay una selección de algunos de mis proyectos:
