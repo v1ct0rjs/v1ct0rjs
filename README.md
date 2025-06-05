@@ -27,9 +27,9 @@ Aquí hay una selección de algunos de mis proyectos:
 *Deployment of a public SonarQube instance using Ngrok to allow external access.*
 
 ### [jenkins_deployment](https://github.com/v1ct0rjs/jenkins_deployment)
-*Automatización del despliegue de imágenes de contenedores hacia DockerHub utilizando Jenkins.*
+*Automatización CD/CI de contenedores hacia DockerHub utilizando Jenkins..*
 
-*Automation of container image deployments to DockerHub using Jenkins.*
+*Automation CD/CI container deployments to DockerHub using Jenkins.*
 
 ### [oci-autonomousdb](https://github.com/v1ct0rjs/oci-autonomousdb)
 *Creación de una base de datos autónoma en Oracle Cloud Infrastructure mediante Terraform.*
