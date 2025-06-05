@@ -12,7 +12,7 @@
 Aquí hay una selección de algunos de mis proyectos:
 
 ### [LoRaIM](https://github.com/v1ct0rjs/LoRaIM)
-*LoRaIM (LoRa Instant Messenger)
+*LoRaIM (LoRa Instant Messenger) es una plataforma experimental diseñada para operar sin una infraestructura tradicional (Wi-fi, movil o internte) utilizando LoRa (Long Range Radio).*
 *LoRaIM (LoRa Instant Messenger) is an experimental messaging platform designed to operate without traditional infrastructure (no cellular, Wi-Fi, or internet) using LoRa (Long Range) radio communication.*
 
 ### [grafana_octopus](https://github.com/v1ct0rjs/grafana_octopus)
