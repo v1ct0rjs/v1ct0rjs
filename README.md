@@ -16,6 +16,11 @@ Aquí hay una selección de algunos de mis proyectos:
 
 *LoRaIM (LoRa Instant Messenger) is an experimental messaging platform designed to operate without traditional infrastructure (no cellular, Wi-Fi, or internet) using LoRa (Long Range) radio communication.*
 
+### [Tacleapp](https://github.com/v1ct0rjs/tacleapp)
+*10tacle Web app contruida con Reflex. *
+
+*10tacle Web app build whit Reflex. *
+
 ### [grafana_octopus](https://github.com/v1ct0rjs/grafana_octopus)
 *Stack de Monitoreo con Grafana, InfluxDB 2 y Telegraf (Docker Compose).*
 
