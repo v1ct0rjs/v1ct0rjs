@@ -11,6 +11,9 @@
 
 Aquí hay una selección de algunos de mis proyectos:
 
+### [OCR Document Search System](https://github.com/v1ct0rjs/ocr-search-system)
+*A document indexing and search system for scanned documents using OCR, Elasticsearch and FastAPI, deployed with Docker.*
+
 ### [LoRaIM](https://github.com/v1ct0rjs/LoRaIM)
 *LoRaIM (LoRa Instant Messenger) es una plataforma experimental diseñada para operar sin una infraestructura tradicional (Wi-fi, movil o internte) utilizando LoRa (Long Range Radio).*
 
