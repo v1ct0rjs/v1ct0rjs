@@ -19,6 +19,11 @@ Aquí hay una selección de algunos de mis proyectos:
  
 *Maintained Docker image of nginx + nginx-rtmp-module that receives an OBS stream over RTMP and serves it as HLS without transcoding. Optional publish key, amd64 and arm64 images, and a weekly rebuild automatically tested and published to Docker Hub with GitHub Actions.*
  
+### [yoloAlarm](https://github.com/v1ct0rjs/yoloAlarm)
+*Sistema de videovigilancia en Python que detecta movimiento con OpenCV y solo entonces identifica personas, perros y gatos con YOLOv8 (ONNX Runtime, con GPU CUDA si está disponible). Avisa por Telegram y correo con foto, tiene horarios programables y se controla a distancia con comandos de Telegram.*
+ 
+*Python home surveillance system that detects motion with OpenCV and only then identifies people, dogs and cats with YOLOv8 (ONNX Runtime, with CUDA GPU support when available). Sends Telegram and email alerts with a photo, has configurable schedules and can be controlled remotely with Telegram commands.*
+ 
 ### [LoRaIM](https://github.com/v1ct0rjs/LoRaIM)
 *LoRaIM (LoRa Instant Messenger) es una plataforma experimental diseñada para operar sin una infraestructura tradicional (Wi-fi, movil o internte) utilizando LoRa (Long Range Radio).*
  
